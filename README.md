@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tasnia Sunehara</h1>
 <h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast</h3>
-<p align="center"> <img src="https://www.careersinaudit.com/careers/2023/01/three-data-and-analytics-trends-to-watch-in-2023/" alt="ncck" /> </p>
+<p align="center"> <img src="https://www.careersinaudit.com/_resx/imageresource/4214b372e6ede86d1c300f9339e8847e8e9164e0-2004-222-0-0-0" alt="ncck" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncck&label=Profile%20views&color=0e75b6&style=flat" alt="ncck" /> </p>
 
