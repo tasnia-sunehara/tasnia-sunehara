@@ -1,10 +1,23 @@
-<h1 align="center">Merhaba 👋, I'm Tasnia Sunehara</h1>
-<h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast</h3>
-<p align="center"> <img src="https://www.careersinaudit.com/_resx/imageresource/4214b372e6ede86d1c300f9339e8847e8e9164e0-2004-222-0-0-0" alt="ncck" /> </p>
+<h1 align="left">Merhaba 👋, I'm Tasnia Sunehara</h1>
+<h3 align="left">Aspiring Data Analyst | Python & SQL Enthusiast</h3>
+<p align="left"> <img src="https://www.careersinaudit.com/_resx/imageresource/4214b372e6ede86d1c300f9339e8847e8e9164e0-2004-222-0-0-0" alt="ncck" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+## 🧩 My Analytics Toolbox
+
+| Skills | Tools | Level |
+|--------|-------|-------|
+| **Data Analysis**   | Excel, Python (Pandas, NumPy) | 💎💎💎💎 |
+| **Database**        | MySQL | 💎💎💎💎 |
+| **Visualization**   | Matplotlib, Seaborn | 💎💎💎💎 |
+| **BI & Dashboards** | Power BI | 💎💎💎💎 |
+
+---
 - ⚡ Fun fact **I can spend hours cleaning messy datasets & actually enjoy it 😎**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
