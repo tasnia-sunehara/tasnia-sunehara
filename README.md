@@ -1,4 +1,4 @@
-<h1 align="left">Merhaba 👋, I'm Tasnia Sunehara</h1>
+<h1 align="left">Hey!👋, I'm Tasnia Sunehara</h1>
 <h3 align="left">Aspiring Data Analyst | Python & SQL Enthusiast</h3>
 <p align="center"> <img src="https://www.careersinaudit.com/_resx/imageresource/4214b372e6ede86d1c300f9339e8847e8e9164e0-2004-222-0-0-0" alt="ncck" /> </p>
 
