@@ -2,7 +2,6 @@
 <h3 align="left">Aspiring Data Analyst | Python & SQL Enthusiast</h3>
 <p align="center"> <img src="https://www.careersinaudit.com/_resx/imageresource/4214b372e6ede86d1c300f9339e8847e8e9164e0-2004-222-0-0-0" alt="ncck" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 ## 🧩 My Analytics Toolbox
 
